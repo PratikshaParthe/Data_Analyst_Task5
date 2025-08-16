@@ -1,0 +1,39 @@
+Task: Exploratory Data Analysis (EDA) on the Titanic dataset using Python.
+Objective: Extract meaningful insights using visual and statistical exploration.
+Tools: Python (Pandas, Matplotlib, Seaborn)
+Deliverables: Jupyter Notebook + PDF report
+
+Key Steps Performed:
+
+Data Loading & Cleaning:
+
+Loaded Titanic dataset.
+
+Checked data types, missing values, and filled or dropped missing data.
+
+Descriptive Statistics:
+
+Used .describe(), .info(), .value_counts() for overview.
+
+Visual Exploration:
+
+Pairplots, heatmaps, histograms, boxplots, and scatterplots using Seaborn.
+
+Identified relationships between survival and features such as age, fare, class, and gender.
+
+Observations:
+
+Women and children had higher survival rates.
+
+Passengers in higher classes survived more often.
+
+Higher fare correlated with increased survival.
+
+Final Findings:
+
+Social status (class and fare) strongly influenced survival.
+
+Gender and age were major factors in survival probability.
+
+Outcome:
+Improved ability to discover patterns, trends, and anomalies using EDA techniques.
